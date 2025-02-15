@@ -1,0 +1,22 @@
+<?php
+return [
+    'adminEmail' => 'noreply@shionimporter.site',
+    'supportEmail' => 'noreply@shionimporter.site',
+    'noReplyEmail' => 'noreply@shionimporter.site',
+    'user.passwordResetTokenExpire' => 3600,
+    'user.passwordMinLength' => 8,
+    'debug' => 2,
+    'apiKey' => '6454aa46f3bd14e2d54bc6fb79024070',
+    'apiSecretKey' => 'caa6fe05dd66e611d2a93576fbab0c22',
+    'dashboardUrl' => '/',
+    'newDashboardUrl' => 'site/callback',
+    'newTestDashboardUrl' => 'site/callback',
+    'appName' => 'ShionImporter',
+    'publitioApiKey' => 'GX6yosWmx7GHRSVXiNnQ',
+    'publitioApiSecret' => '5RJbd6DT96rubTM1pmGxTZ2JB8PisReB',
+    'enableReview' => true,
+    'sheinScrapNode' => false,
+    'chromeExtensionUrl' => 'https://chromewebstore.google.com/detail/shionimporter/fahhnepimohaplbclpiebeckjjphehhc?hl=en-US',
+    'proxyManagerUrl' => 'http://147.182.167.255',
+    'bsVersion' => '4',
+];
